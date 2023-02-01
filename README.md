@@ -38,7 +38,7 @@
 開発期間　２～３カ月
 
 
-![screenshot](restert.png)
+![screenshot](restart.png)
 [3D横スクロールアクション]スタートに戻るギミックを駆使して、クリアを目指すゲーム
 
 開発環境　Unity
