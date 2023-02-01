@@ -1,50 +1,50 @@
-# portfolio
-- ’†‘º—yl
-- ˜A—æ@Twitter @ / Email harutonakamura.dat@gmail.com
-- ê–åŠwZƒfƒWƒ^ƒ‹ƒA[ƒc“Œ‹ž@ƒQ[ƒ€ƒvƒƒOƒ‰ƒ€ƒR[ƒX@2024”N‘²‹Æ—\’è
+ï»¿# portfolio
+- ä¸­æ‘é¥äºº
+- é€£çµ¡å…ˆã€€Twitter @ / Email harutonakamura.dat@gmail.com
+- å°‚é–€å­¦æ ¡ãƒ‡ã‚¸ã‚¿ãƒ«ã‚¢ãƒ¼ãƒ„æ±äº¬ã€€ã‚²ãƒ¼ãƒ ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚³ãƒ¼ã‚¹ã€€2024å¹´å’æ¥­äºˆå®š
 
-## Ž‘Ši
-- î•ñ‹ZpŒŸ’è@‚Q‹‰
-- ŒvŽZ‹ZpŒŸ’è@‚R‹‰
+## è³‡æ ¼
+- æƒ…å ±æŠ€è¡“æ¤œå®šã€€ï¼’ç´š
+- è¨ˆç®—æŠ€è¡“æ¤œå®šã€€ï¼“ç´š
 
-## ƒXƒLƒ‹
+## ã‚¹ã‚­ãƒ«
 - C/C++
-  - —˜—p—ð‚Q”N
-  - ƒRƒ“ƒ\[ƒ‹‚ÅŠÈ’P‚Èƒf[ƒ^ˆ—ƒvƒƒOƒ‰ƒ€‚ðŠJ”­
+  - åˆ©ç”¨æ­´ï¼’å¹´
+  - ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã§ç°¡å˜ãªãƒ‡ãƒ¼ã‚¿å‡¦ç†ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’é–‹ç™º
 
 - Unity
-  - —˜—p—ð‚Q”N
-  - ƒIƒŠƒWƒiƒ‹‚ÌŒÂlì•i‚ÌŠJ”­ŒoŒ±‚ ‚è
+  - åˆ©ç”¨æ­´ï¼’å¹´
+  - ã‚ªãƒªã‚¸ãƒŠãƒ«ã®å€‹äººä½œå“ã®é–‹ç™ºçµŒé¨“ã‚ã‚Š
 
 - Unreal Engine
-  - —˜—p—ð‚P”N
-  - ƒIƒŠƒWƒiƒ‹‚Éƒ`[ƒ€ì•i‚ÌŠJ”­ŒoŒ±‚ ‚è
+  - åˆ©ç”¨æ­´ï¼‘å¹´
+  - ã‚ªãƒªã‚¸ãƒŠãƒ«ã«ãƒãƒ¼ãƒ ä½œå“ã®é–‹ç™ºçµŒé¨“ã‚ã‚Š
 
 - cluster
-  - —˜—p—ð‚P”N
-  - cluster creator kit‚Å‚Ìƒ[ƒ‹ƒhì¬
+  - åˆ©ç”¨æ­´ï¼‘å¹´
+  - cluster creator kitã§ã®ãƒ¯ãƒ¼ãƒ«ãƒ‰ä½œæˆ
 
-## Žæ‚è‘g‚ñ‚Å‚¢‚éƒe[ƒ}
-1. ƒIƒŠƒWƒiƒ‹ƒQ[ƒ€ŠJ”­
+## å–ã‚Šçµ„ã‚“ã§ã„ã‚‹ãƒ†ãƒ¼ãƒž
+1. ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚²ãƒ¼ãƒ é–‹ç™º
 
-## ì•iƒŠƒXƒg
+## ä½œå“ãƒªã‚¹ãƒˆ
 1. Tower Of Challenge
 2. Re:Start
 
 ![screenshot](cluster.png)
-[3DƒAƒNƒVƒ‡ƒ“ƒQ[ƒ€]ƒAƒXƒŒƒ`ƒbƒN‚ð“Ë”j‚µ‚ÄA“ƒ‚Ì’¸ã‚ð–ÚŽw‚·ƒQ[ƒ€
+[3Dã‚¢ã‚¯ã‚·ãƒ§ãƒ³ã‚²ãƒ¼ãƒ ]ã‚¢ã‚¹ãƒ¬ãƒãƒƒã‚¯ã‚’çªç ´ã—ã¦ã€å¡”ã®é ‚ä¸Šã‚’ç›®æŒ‡ã™ã‚²ãƒ¼ãƒ 
 
-ŠJ”­ŠÂ‹«@cluster
-ŠJ”­ŠúŠÔ@‚Q`‚RƒJŒŽ
+é–‹ç™ºç’°å¢ƒã€€cluster
+é–‹ç™ºæœŸé–“ã€€ï¼’ï½žï¼“ã‚«æœˆ
 
 
 ![screenshot](restert.png)
-[3D‰¡ƒXƒNƒ[ƒ‹ƒAƒNƒVƒ‡ƒ“]ƒXƒ^[ƒg‚É–ß‚éƒMƒ~ƒbƒN‚ð‹ìŽg‚µ‚ÄAƒNƒŠƒA‚ð–ÚŽw‚·ƒQ[ƒ€
+[3Dæ¨ªã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ã‚¢ã‚¯ã‚·ãƒ§ãƒ³]ã‚¹ã‚¿ãƒ¼ãƒˆã«æˆ»ã‚‹ã‚®ãƒŸãƒƒã‚¯ã‚’é§†ä½¿ã—ã¦ã€ã‚¯ãƒªã‚¢ã‚’ç›®æŒ‡ã™ã‚²ãƒ¼ãƒ 
 
-ŠJ”­ŠÂ‹«@Unity
-ŠJ”­ŠúŠÔ@Œ»ÝŠJ”­’†
+é–‹ç™ºç’°å¢ƒã€€Unity
+é–‹ç™ºæœŸé–“ã€€ç¾åœ¨é–‹ç™ºä¸­
 
-## ˜A—æ
-- ƒuƒƒO
+## é€£çµ¡å…ˆ
+- ãƒ–ãƒ­ã‚°
 - Twitter
 - Email harutonakamura.dat@gmail.com
