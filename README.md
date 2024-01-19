@@ -6,6 +6,7 @@
 ## 資格
 - 情報技術検定　２級
 - 計算技術検定　３級
+- パソコン利用技術検定　３級
 
 ## スキル
 - C/C++
@@ -29,7 +30,7 @@
 
 ## 作品リスト
 1. Tower Of Challenge
-2. Re:Start
+2. CaveEscape
 
 # 1. Tower Of Challenge
 ![screenshot](cluster.png)
@@ -38,11 +39,11 @@
 - 開発環境　cluster
 - 開発期間　２～３カ月
 
-# 2. Re:Start
+# 2. CaveEscape
 ![screenshot](restart.png)
 [3D横スクロールアクション]スタートに戻るギミックを駆使して、クリアを目指すゲーム
 
-- 開発環境　Unity
+- 開発環境　UnrealEngine
 - 開発期間　現在開発中
 
 ## 連絡先
